@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: rgb(62, 60, 60);
+    line-height: 1.5;
+}
+
+h1 {
+    font-family: 'Tahoma';
+}
+
+ul {
+    list-style-type: none;
+
+}
+
+li,
+h1,
+ul {
+    padding: 0;
+    margin: 0;
+}
+
+img {
+    display: block;
+    max-width: 100%;
+}
+
+/* 
+input {
+    border: 1px solid rgb(104, 100, 100);
+    border-radius: 5px;
+    height: 30px;
+    width: 100%;
+}
+
+button {
+    border: 1px solid rgb(157, 157, 157);
+    border-radius: 5px;
+    background: rgb(244, 243, 243);
+} */
